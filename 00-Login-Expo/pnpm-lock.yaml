@@ -20,8 +20,8 @@ dependencies:
     specifier: 0.71.3
     version: 0.71.3(@babel/core@7.22.5)(@babel/preset-env@7.22.5)(react@18.2.0)
   react-native-auth0:
-    specifier: ^2.16.0
-    version: 2.16.0(react-native@0.71.3)(react@18.2.0)
+    specifier: ^2.17.4
+    version: 2.17.4(react-native@0.71.3)(react@18.2.0)
   react-native-web:
     specifier: ~0.18.12
     version: 0.18.12(react-dom@18.2.0)(react@18.2.0)
@@ -6123,8 +6123,8 @@ packages:
     resolution: {integrity: sha512-xWGDIW6x921xtzPkhiULtthJHoJvBbF3q26fzloPCK0hsvxtPVelvftw3zjbHWSkR2km9Z+4uxbDDK/6Zw9B8w==}
     dev: false
 
-  /react-native-auth0@2.16.0(react-native@0.71.3)(react@18.2.0):
-    resolution: {integrity: sha512-JB+otA4+3BndJIgXKnJz7iU93YRUNwVusjCg7RhYmDAwrSOzXaj2AlG5SRloONLXGFK/GBzvkb1fbE1f1Bznaw==}
+  /react-native-auth0@2.17.4(react-native@0.71.3)(react@18.2.0):
+    resolution: {integrity: sha512-I8HEhcyWmUgd5sFMQRtOA28ntmGu1VOl0Y+VOW3LyEC6F4Pe9K/FRrSHJmTZyE6ovTAQIBpm/L2B4lF7dU5v1A==}
     peerDependencies:
       react: ^16.11.0 || ^17 || ^18
       react-native: '>=0.65.0 <1.0.x'
